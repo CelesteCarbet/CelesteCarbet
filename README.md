@@ -1,4 +1,4 @@
-# 👋 你好，我是 CelesteCarbet！
+# 👋 你好，我是夔乐！
 
 [![GitHub followers](https://img.shields.io/github/followers/CelesteCarbet?style=social)](https://github.com/CelesteCarbet)
 [![GitHub stars](https://img.shields.io/github/stars/CelesteCarbet?style=social)](https://github.com/CelesteCarbet?tab=repositories)
@@ -6,7 +6,7 @@
 
 <!-- 动态打字横幅 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎+来到+我的+GitHub!;热爱+代码+与+创新;持续+学习+不断+成长:做成这样就可以了吗&center=true&size=25" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎+来到+我的+GitHub!;热爱+代码+与+创新;持续+学习+不断+成长;做成 这样 就 可以 了吗&center=true&size=25" />
 </div>
 
 <!-- 3D卡片效果 -->
@@ -16,12 +16,10 @@
 
 ## 🚀 关于我
 
-- 💼 职业：[你的职业，如全栈开发者、数据科学家等]
-- 🌱 目前正在学习：[你正在学习的技术]
-- 👯 希望合作：[你希望合作的项目类型]
-- 💬 可以问我关于：[你擅长的技术领域]
-- 📫 如何联系我：[你的邮箱或其他联系方式]
-- ⚡ 有趣的事实：[一个关于你的有趣事实]
+- 💼 职业：人工智能在读
+- 🌱 目前正在学习：高等数学 线性代数
+- 📫 如何联系我：15511288390
+- ⚡ 有趣的事实：我是人
 
 ## 🎮 开发日常
 
@@ -34,7 +32,6 @@
   
   <!-- 第二行卡片 -->
   <img height="165em" src="https://github-readme-stats.vercel.app/api/wakatime?username=CelesteCarbet&theme=radical"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=CelesteCarbet&repo=任意仓库名&theme=radical"/>
 
 </div>
 
@@ -117,28 +114,6 @@
   <!-- 代码时间统计 -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CelesteCarbet&layout=compact&theme=radical" />
   
-</div>
-
-## 🎵 音乐与媒体
-
-<!-- Spotify卡片 -->
-<div align="center">
-
-  [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/你的spotify_id)
-
-</div>
-
-## 📝 博客与文章
-
-<!-- 博客卡片 -->
-<div align="center">
-
-  ### ✍️ 最新博客文章
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CelesteCarbet&repo=blog&theme=radical)](https://github.com/CelesteCarbet/blog)
-
 </div>
 
 ## 🎨 创意展示
