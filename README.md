@@ -44,14 +44,31 @@
 
 <div align="center">
 
-<!-- 简化统计卡片 -->
-![](https://github-readme-stats.vercel.app/api?username=CelesteCarbet&show_icons=true&theme=default&hide_title=true)
+<!-- 高级统计仪表盘 -->
+<div align="center">
+  
+![CelesteCarbet's GitHub stats](https://github-readme-stats.vercel.app/api?username=CelesteCarbet&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=algolia&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_color=30363d&border_radius=15&custom_title=📈%20GitHub%20Statistics&include_all_commits=true&line_height=24)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CelesteCarbet&layout=compact&theme=default&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CelesteCarbet&layout=compact&theme=algolia&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d&border_radius=15&langs_count=8&hide=html,css,scss&exclude_repo=github-readme-stats)
 
-<!-- 简化连续贡献 -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=CelesteCarbet&theme=default)
+</div>
 
+<!-- 多维度统计 -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelesteCarbet&theme=algolia&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E&sideLabels=8B949E&sideNums=8B949E&border_radius=15" alt="GitHub Streak" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CelesteCarbet&custom_title=CelesteCarbet's%20Contribution%20Graph&theme=react-dark&bg_color=0d1117&hide_border=true&color=58a6ff&line=238636&point=58a6ff&area=true&area_color=238636" alt="Activity Graph" width="100%"/>
+</div>
+
+<!-- 技能进度条 -->
+<div align="center">
+  <h3>🛠️ 技术熟练度</h3>
+  
+  ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-Advanced-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![AI/ML](https://img.shields.io/badge/AI/ML-Intermediate-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Web](https://img.shields.io/badge/Web%20Development-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  
 </div>
 
 ## 🏆 GitHub 奖杯
