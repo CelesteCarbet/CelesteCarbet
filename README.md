@@ -37,25 +37,11 @@
 
 ### 🤖 AI/数据科学
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📊 GitHub 统计
 
 <div align="center">
-
-<!-- 玻璃态效果统计 -->
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=CelesteCarbet&show_icons=true&theme=transparent&hide_border=true&bg_color=45,0d1117,161b22,0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=20&include_all_commits=true&count_private=true&custom_title=CelesteCarbet%27s%20GitHub%20Stats" alt="Stats" style="box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelesteCarbet&layout=compact&theme=transparent&hide_border=true&bg_color=45,161b22,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9&border_radius=20&langs_count=8" alt="Top Languages" style="box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);"/>
-</div>
-
-<!-- 高级贡献日历 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CelesteCarbet&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&color=58a6ff&line=238636&point=238636&area_color=238636" alt="Activity Graph" style="border-radius: 15px;"/>
-</div>
-
 <!-- 多维度统计 -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelesteCarbet&theme=algolia&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E&sideLabels=8B949E&sideNums=8B949E&border_radius=15" alt="GitHub Streak" />
@@ -69,9 +55,15 @@
   
   ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-Advanced-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![AI/ML](https://img.shields.io/badge/AI/ML-Intermediate-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
   ![Web](https://img.shields.io/badge/Web%20Development-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=white)
   
+</div>
+
+<!-- LeetCode 统计 -->
+<div align="center">
+  
+[![LeetCode](https://leetcard.jacoblin.cool/CelesteCarbet?theme=dark&font=Karma&ext=contest)](https://leetcode.com/CelesteCarbet)
+
 </div>
 
 ## 🏆 GitHub 奖杯
