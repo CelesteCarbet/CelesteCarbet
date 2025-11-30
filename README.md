@@ -36,8 +36,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelesteCarbet&theme=radical" />
 
-  ![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?CelesteCarbet=Taot-chen)
-
 </div>
 
 ## 🏆 GitHub 奖杯
@@ -49,8 +47,7 @@
 ## 🎮 贡献图
 
 <div align="center">
-
-![Contribution Grid](https://ghchart.rshah.org/CelesteCarbet)
+  ![Contribution Grid](https://ghchart.rshah.org/CelesteCarbet)
 
 
 </div>
