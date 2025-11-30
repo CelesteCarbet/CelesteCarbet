@@ -37,9 +37,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelesteCarbet&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
+
 <!-- 连续贡献图 -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelesteCarbet&theme=radical" />
+
+  ![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?CelesteCarbet=Taot-chen)
+
 </div>
 
 <!-- 活动图 -->
@@ -59,12 +63,20 @@
   <!-- 贪吃蛇动画 -->
   ![Snake game](https://raw.githubusercontent.com/CelesteCarbet/CelesteCarbet/output/github-contribution-grid-snake.svg)
 
+</div>
   
 ## 🎮 贡献图
 
 <div align="center">
 
 ![Contribution Grid](https://ghchart.rshah.org/CelesteCarbet)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?CelesteCarbet=Taot-chen&size_weight=0.5&count_weight=0.5&langs_count=8)
+
+
+![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?CelesteCarbet=Taot-chen&theme=xcode)
+
+
 
 </div>
 
