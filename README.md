@@ -44,13 +44,16 @@
 
 <div align="center">
 
-<!-- 高级统计仪表盘 -->
-<div align="center">
+<!-- 玻璃态效果统计 -->
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=CelesteCarbet&show_icons=true&theme=transparent&hide_border=true&bg_color=45,0d1117,161b22,0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=20&include_all_commits=true&count_private=true&custom_title=CelesteCarbet%27s%20GitHub%20Stats" alt="Stats" style="box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);"/>
   
-![CelesteCarbet's GitHub stats](https://github-readme-stats.vercel.app/api?username=CelesteCarbet&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=algolia&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_color=30363d&border_radius=15&custom_title=📈%20GitHub%20Statistics&include_all_commits=true&line_height=24)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelesteCarbet&layout=compact&theme=transparent&hide_border=true&bg_color=45,161b22,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9&border_radius=20&langs_count=8" alt="Top Languages" style="box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CelesteCarbet&layout=compact&theme=algolia&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d&border_radius=15&langs_count=8&hide=html,css,scss&exclude_repo=github-readme-stats)
-
+<!-- 高级贡献日历 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CelesteCarbet&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&color=58a6ff&line=238636&point=238636&area_color=238636" alt="Activity Graph" style="border-radius: 15px;"/>
 </div>
 
 <!-- 多维度统计 -->
@@ -90,15 +93,6 @@
 
 <!-- 简化笑话 -->
 <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%23ffffff&qColor=%2358a6ff&aColor=%23ff6b9d" alt="Jokes Card" />
-
-</div>
-
-## 🎵 正在播放
-
-<div align="center">
-
-<!-- 最简单的音乐显示 -->
-[![Spotify](https://spotify-readme-xi.vercel.app/api/spotify)](https://open.spotify.com/user/31kp2ypqwfbbnktvqj3d3dpj74qq)
 
 </div>
 
