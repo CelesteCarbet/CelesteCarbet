@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=主席部长同事你们好！！！&fontSize=40&fontAlignY=35" />
 </div>
 
-# 👋 你好，我是夔乐！
+# 👋 你好！！！
 
 <div align="center">
 
@@ -42,16 +42,6 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-
-<!-- 玻璃态效果统计卡片 -->
-<img src="https://github-readme-stats.vercel.app/api?username=CelesteCarbet&show_icons=true&theme=transparent&hide_border=true&bg_color=45,0d1117,161b22,0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=20&include_all_commits=true&count_private=true" alt="Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelesteCarbet&layout=compact&theme=transparent&hide_border=true&bg_color=45,161b22,0d1117,161b22&title_color=58a6ff&text_color=c9d1d9&border_radius=20&langs_count=8" alt="Top Languages" />
-
-<!-- 玻璃态连续贡献 -->
-<img src="https://streak-stats.demolab.com?user=CelesteCarbet&theme=transparent&hide_border=true&background=45%2C0d1117%2C161b22&border_radius=20&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-
-</div>
 <!-- 多维度统计 -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelesteCarbet&theme=algolia&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E&sideLabels=8B949E&sideNums=8B949E&border_radius=15" alt="GitHub Streak" />
@@ -92,12 +82,12 @@
 ## 🎮 趣味部分
 
 <div align="center">
-  
-<!-- 名言卡片 -->
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- 简化笑话 -->
 <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%23ffffff&qColor=%2358a6ff&aColor=%23ff6b9d" alt="Jokes Card" />
+
+<!-- 名言卡片 -->
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -119,7 +109,7 @@
 ⭐ 如果喜欢我的项目，欢迎 star 和 follow！
 
 <!-- 底部波浪 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
 </div>
 
