@@ -44,13 +44,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=CelesteCarbet&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
-## 🎮 贡献图
-
-<div align="center">
-  ![Contribution Grid](https://ghchart.rshah.org/CelesteCarbet)
-
-
-</div>
+## 🎮 好玩的
 
   
   <!-- 趣味笑话 -->
