@@ -1,5 +1,6 @@
 
 # 👋 你好，我是夔乐！
+<div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/CelesteCarbet?style=social)](https://github.com/CelesteCarbet)
 [![GitHub stars](https://img.shields.io/github/stars/CelesteCarbet?style=social)](https://github.com/CelesteCarbet?tab=repositories)
@@ -11,22 +12,26 @@
 </div>
 
 ## 🚀 关于我
+<div align="center">
 - 💼 身份：人工智能在读学生  
 - 📚 目前学习：高等数学、线性代数  
 - 📞 联系方式：15511288390  
 - ⚡ 有趣的事：我是人
 
 ## 🛠️ 技术栈
-
+<div align="center">
 ### 💻 编程语言
+  <div align="center">
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🌐 前端技术
+<div align="center">
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 🤖 AI/数据科学
+<div align="center">
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -46,7 +51,7 @@
 
 ## 🎮 好玩的
 
-  
+  <div align="center">
   <!-- 趣味笑话 -->
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true)
   
