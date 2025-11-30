@@ -31,20 +31,21 @@
 
 ## 📊 GitHub 统计
 
+<!-- GitHub统计卡片 -->
 <div align="center">
-  
-  <!-- 主要统计卡片 -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CelesteCarbet&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelesteCarbet&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-  
-  <!-- 连续贡献图 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelesteCarbet&theme=radical&background=0D1117&ring=DD2727&fire=DD2727" alt="GitHub Streak" />
-  
-  <!-- 贡献图 -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=CelesteCarbet&theme=react-dark&bg_color=0D1117&color=DD2727&line=DD2727&point=FFFFFF" alt="Activity Graph" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CelesteCarbet&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelesteCarbet&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
+<!-- 连续贡献图 -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelesteCarbet&theme=radical" />
+</div>
+
+<!-- 活动图 -->
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=CelesteCarbet&theme=react-dark" />
+</div>
 ## 🏆 GitHub 奖杯
 
 <div align="center">
@@ -57,6 +58,16 @@
 
   <!-- 贪吃蛇动画 -->
   ![Snake game](https://raw.githubusercontent.com/CelesteCarbet/CelesteCarbet/output/github-contribution-grid-snake.svg)
+
+  
+## 🎮 贡献图
+
+<div align="center">
+
+![Contribution Grid](https://ghchart.rshah.org/CelesteCarbet)
+
+</div>
+
   
   <!-- 趣味笑话 -->
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true)
