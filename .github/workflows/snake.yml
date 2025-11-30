@@ -2,7 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # 每天UTC时间18:00运行（北京时间凌晨2点）
+    - cron: "0 18 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -14,20 +15,24 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v3
         
-      - name: Generate Snake Game
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-          
-      - name: Deploy to GitHub Pages
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-grid-snake.svg
+        
+      - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          keep_files: true
+          publish_branch: output
+          force_orphan: true
+          keep_files: false
