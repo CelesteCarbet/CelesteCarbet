@@ -18,9 +18,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓-人工智能在读-13c5b8?style=for-the-badge&logo=book&logoColor=white" alt="AI Student">
-  <img src="https://img.shields.io/badge/📚-高等数学|线性代数|机器学习-35c4b9?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Courses">
-  <img src="https://img.shields.io/badge/📞-15511288390-68c7c0?style=for-the-badge&logo=mail&logoColor=white" alt="Contact">
-  <img src="https://img.shields.io/badge/✨-我是人，不是AI-8acac5?style=for-the-badge&logo=heart&logoColor=white" alt="Human">
+  <img src="https://img.shields.io/badge/📚-高等数学|线性代数|机器学习-0ff8e7?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Courses">
+  <img src="https://img.shields.io/badge/📞-15511288390-0be0d1?style=for-the-badge&logo=mail&logoColor=white" alt="Contact">
+  <img src="https://img.shields.io/badge/✨-我是人，不是AI-0ebbae?style=for-the-badge&logo=heart&logoColor=white" alt="Human">
 </p>
 </div>
 
@@ -43,7 +43,7 @@
 
 <!-- 多维度统计 -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelesteCarbet&theme=algolia&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E&sideLabels=8B949E&sideNums=8B949E&border_radius=15" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelesteCarbet&theme=algolia&hide_border=true&background=0ff8e7&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E&sideLabels=8B949E&sideNums=8B949E&border_radius=15" alt="GitHub Streak" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CelesteCarbet&custom_title=CelesteCarbet's%20Contribution%20Graph&theme=react-dark&bg_color=0d1117&hide_border=true&color=58a6ff&line=238636&point=58a6ff&area=true&area_color=238636" alt="Activity Graph" width="100%"/>
 </div>
