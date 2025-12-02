@@ -15,23 +15,38 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎+来到+我的+GitHub!;热爱+代码+与+创新;做成+这样+就行+了吧;探索+AI+的+无限+可能;一起+进步+吧!&center=true&size=25&color=58A6FF" />
 </div>
-<!-- 卡片式设计 -->
-<div style="display: flex; flex-direction: column; gap: 8px;">
-  <div style="background: linear-gradient(135deg, #13c5b8, #e7f1fa); padding: 10px 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    🎓 <strong>人工智能在读</strong>
-  </div>
-  <div style="background: linear-gradient(135deg, #35c4b9, #e8f7e8); padding: 10px 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    📚 <strong>高等数学、线性代数、机器学习</strong>
-  </div>
-  <div style="background: linear-gradient(135deg, #68c7c0, #c8eae8); padding: 10px 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    📧 <strong>15511288390</strong>
-  </div>
-  <div style="background: linear-gradient(135deg, #8acac5, #effefd); padding: 10px 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    ✨ <strong>我是人，不是AI</strong>
-  </div>
+<table>
+  <tr>
+    <td>
+      <div style="background: linear-gradient(135deg, #13c5b8, #e7f1fa); padding: 10px 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        🎓 <strong>人工智能在读</strong>
+      </div>
+    </td>
+    <td>
+      <div style="background: linear-gradient(135deg, #35c4b9, #e8f7e8); padding: 10px 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        📚 <strong>高等数学、线性代数、机器学习</strong>
+      </div>
+    </td>
+    <td>
+      <div style="background: linear-gradient(135deg, #68c7c0, #c8eae8); padding: 10px 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        📧 <strong>15511288390</strong>
+      </div>
+    </td>
+    <td>
+      <div style="background: linear-gradient(135deg, #8acac5, #effefd); padding: 10px 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        ✨ <strong>我是人，不是AI</strong>
+      </div>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 </div>
 
-## 🛠️ 技术栈
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
