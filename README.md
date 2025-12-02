@@ -89,9 +89,8 @@
 
 <div align="center">
 
-### 🎯 感谢访问！
-  
-⭐ 如果喜欢我的项目，欢迎 star 和 follow！
+  <img src="profile.jpg" width="200" height="200">
+<img width="474" height="331" alt="OIP-C(1)" src="https://github.com/user-attachments/assets/873fe02a-8e16-4072-83c3-9705c8d64008" />
 
 <!-- 底部波浪 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
