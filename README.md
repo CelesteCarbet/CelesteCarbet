@@ -46,13 +46,6 @@
   
 </div>
 
-<!-- LeetCode 统计 -->
-<div align="center">
-  
-[![LeetCode](https://leetcard.jacoblin.cool/CelesteCarbet?theme=dark&font=Karma&ext=contest)](https://leetcode.com/CelesteCarbet)
-
-</div>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CelesteCarbet&theme=onedark&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
 </div>
