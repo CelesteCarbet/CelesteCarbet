@@ -15,25 +15,16 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎+来到+我的+GitHub!;热爱+代码+与+创新;做成+这样+就行+了吧;探索+AI+的+无限+可能;一起+进步+吧!&center=true&size=25&color=58A6FF" />
 </div>
-
-## 🚀 关于我
-
-- 💼 身份：人工智能在读学生  
-- 📚 目前学习：高等数学、线性代数、机器学习  
-- 📞 联系方式：15511288390  
-- ⚡ 有趣的事：我是人，不是AI
+- 💼 人工智能在读
+- 📚 高等数学、线性代数、机器学习  
+- 📞 15511288390  
+- ⚡ 我是人，不是AI
 
 ## 🛠️ 技术栈
-
-### 💻 编程语言
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### 🌐 前端技术
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🤖 AI/数据科学
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -70,14 +61,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=CelesteCarbet&theme=onedark&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
 </div>
 
-## 🐍 贪吃蛇贡献图
-
 <div align="center">
   <!-- 最简单的贪吃蛇方案 -->
   <img src="https://github.com/CelesteCarbet/CelesteCarbet/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
-
-## 🎮 趣味部分
 
 <div align="center">
 
