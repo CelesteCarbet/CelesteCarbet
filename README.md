@@ -18,9 +18,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓-Studying Artificial Intelligence-13c5b8?style=for-the-badge&logo=book&logoColor=white" alt="AI Student">
-  <img src="https://img.shields.io/badge/📚-高等数学|线性代数|机器学习-0ebbae?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Courses">
+  <img src="https://img.shields.io/badge/📚-Advanced Mathematics | Linear Algebra-0ebbae?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Courses">
   <img src="https://img.shields.io/badge/📞-15511288390-0ebbae?style=for-the-badge&logo=mail&logoColor=white" alt="Contact">
-  <img src="https://img.shields.io/badge/✨-我是人，不是AI-0ebbae?style=for-the-badge&logo=heart&logoColor=white" alt="Human">
+  <img src="https://img.shields.io/badge/✨- I am human, not AI-0ebbae?style=for-the-badge&logo=heart&logoColor=white" alt="Human">
 </p>
 </div>
 
@@ -41,7 +41,10 @@
   
 </div>
 
-
+<div align="center">
+  <!-- 最简单的贪吃蛇方案 -->
+  <img src="https://github.com/CelesteCarbet/CelesteCarbet/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
 <!-- 多维度统计 -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelesteCarbet&theme=algolia&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E&sideLabels=8B949E&sideNums=8B949E&border_radius=15" alt="GitHub Streak" />
@@ -52,11 +55,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CelesteCarbet&theme=onedark&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <!-- 最简单的贪吃蛇方案 -->
-  <img src="https://github.com/CelesteCarbet/CelesteCarbet/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 <div align="center">
