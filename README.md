@@ -28,8 +28,6 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## 📊 GitHub 统计
-
 <div align="center">
 <!-- 多维度统计 -->
 <div align="center">
@@ -89,7 +87,6 @@
 
 <div align="center">
 
-  <img src="profile.jpg" width="200" height="200">
 <img width="474" height="331" alt="OIP-C(1)" src="https://github.com/user-attachments/assets/873fe02a-8e16-4072-83c3-9705c8d64008" />
 
 <!-- 底部波浪 -->
