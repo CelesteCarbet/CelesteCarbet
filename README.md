@@ -41,7 +41,6 @@
 </div>
 
 
-<div align="center">
 <!-- 多维度统计 -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelesteCarbet&theme=algolia&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E&sideLabels=8B949E&sideNums=8B949E&border_radius=15" alt="GitHub Streak" />
