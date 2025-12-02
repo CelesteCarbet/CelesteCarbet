@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓-人工智能在读-13c5b8?style=for-the-badge&logo=book&logoColor=white" alt="AI Student">
+  <img src="https://img.shields.io/badge/🎓-Studying Artificial Intelligence-13c5b8?style=for-the-badge&logo=book&logoColor=white" alt="AI Student">
   <img src="https://img.shields.io/badge/📚-高等数学|线性代数|机器学习-0ebbae?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Courses">
   <img src="https://img.shields.io/badge/📞-15511288390-0ebbae?style=for-the-badge&logo=mail&logoColor=white" alt="Contact">
   <img src="https://img.shields.io/badge/✨-我是人，不是AI-0ebbae?style=for-the-badge&logo=heart&logoColor=white" alt="Human">
