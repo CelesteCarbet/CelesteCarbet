@@ -20,15 +20,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🎓-人工智能在读-13c5b8?style=for-the-badge&logo=book&logoColor=white" alt="AI Student">
   <img src="https://img.shields.io/badge/📚-高等数学|线性代数|机器学习-35c4b9?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Courses">
-  <br>
-  <img src="https://img.shields.io/badge/📧-15511288390-68c7c0?style=for-the-badge&logo=mail&logoColor=white" alt="Contact">
+  <img src="https://img.shields.io/badge/📞-15511288390-68c7c0?style=for-the-badge&logo=mail&logoColor=white" alt="Contact">
   <img src="https://img.shields.io/badge/✨-我是人，不是AI-8acac5?style=for-the-badge&logo=heart&logoColor=white" alt="Human">
 </p>
 </div>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 <!-- 技能进度条 -->
