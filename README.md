@@ -15,10 +15,21 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎+来到+我的+GitHub!;热爱+代码+与+创新;做成+这样+就行+了吧;探索+AI+的+无限+可能;一起+进步+吧!&center=true&size=25&color=58A6FF" />
 </div>
-- 💼 人工智能在读
-- 📚 高等数学、线性代数、机器学习  
-- 📞 15511288390  
-- ⚡ 我是人，不是AI
+<!-- 卡片式设计 -->
+<div style="display: flex; flex-direction: column; gap: 8px;">
+  <div style="background: linear-gradient(135deg, #13c5b8, #bbdefb); padding: 10px 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    🎓 <strong>人工智能在读</strong>
+  </div>
+  <div style="background: linear-gradient(135deg, #35c4b9, #c8e6c9); padding: 10px 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    📚 <strong>高等数学、线性代数、机器学习</strong>
+  </div>
+  <div style="background: linear-gradient(135deg, #68c7c0, #ffecb3); padding: 10px 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    📧 <strong>15511288390</strong>
+  </div>
+  <div style="background: linear-gradient(135deg, #8acac5, #f8bbd9); padding: 10px 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    🤖 <strong>我是人，不是AI</strong>
+  </div>
+</div>
 
 ## 🛠️ 技术栈
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
