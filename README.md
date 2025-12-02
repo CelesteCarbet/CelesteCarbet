@@ -44,10 +44,11 @@
 
 <!-- 多维度统计 -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelesteCarbet&theme=algolia&hide_border=true&background=0ff8e7&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E&sideLabels=8B949E&sideNums=8B949E&border_radius=15" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CelesteCarbet&theme=algolia&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&dates=8B949E&sideLabels=8B949E&sideNums=8B949E&border_radius=15" alt="GitHub Streak" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CelesteCarbet&custom_title=CelesteCarbet's%20Contribution%20Graph&theme=react-dark&bg_color=0d1117&hide_border=true&color=58a6ff&line=238636&point=58a6ff&area=true&area_color=238636" alt="Activity Graph" width="100%"/>
 </div>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CelesteCarbet&theme=onedark&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
