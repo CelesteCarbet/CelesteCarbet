@@ -19,6 +19,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🎓-Studying Artificial Intelligence-13c5b8?style=for-the-badge&logo=book&logoColor=white" alt="AI Student">
   <img src="https://img.shields.io/badge/📚-Advanced Mathematics | Linear Algebra-0ebbae?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Courses">
+ 
+</p>
+</div>
+
+<p align="center">
+
   <img src="https://img.shields.io/badge/📞-15511288390-0ebbae?style=for-the-badge&logo=mail&logoColor=white" alt="Contact">
   <img src="https://img.shields.io/badge/✨- I am human, not AI-0ebbae?style=for-the-badge&logo=heart&logoColor=white" alt="Human">
 </p>
@@ -38,7 +44,6 @@
   ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-Advanced-007396?style=for-the-badge&logo=java&logoColor=white)
   
-  
 </div>
 
 <div align="center">
@@ -51,7 +56,6 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CelesteCarbet&custom_title=CelesteCarbet's%20Contribution%20Graph&theme=react-dark&bg_color=0d1117&hide_border=true&color=58a6ff&line=238636&point=58a6ff&area=true&area_color=238636" alt="Activity Graph" width="100%"/>
 </div>
-
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CelesteCarbet&theme=onedark&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
