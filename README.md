@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=主席部长同事你们好！！！&fontSize=40&fontAlignY=35" />
 </div>
 
-# 👋 你好！！！
+# 👋 HELLO！！！
 
 <div align="center">
 
@@ -24,13 +24,14 @@
 </p>
 </div>
 
-<p align="center">
+<div align="center">
   
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 <!-- 技能进度条 -->
 <div align="center">
   
