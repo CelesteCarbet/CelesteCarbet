@@ -15,36 +15,15 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎+来到+我的+GitHub!;热爱+代码+与+创新;做成+这样+就行+了吧;探索+AI+的+无限+可能;一起+进步+吧!&center=true&size=25&color=58A6FF" />
 </div>
-<table>
-  <tr>
-    <td>
-      <div style="background: linear-gradient(135deg, #13c5b8, #e7f1fa); padding: 10px 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-        🎓 <strong>人工智能在读</strong>
-      </div>
-    </td>
-    <td>
-      <div style="background: linear-gradient(135deg, #35c4b9, #e8f7e8); padding: 10px 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-        📚 <strong>高等数学、线性代数、机器学习</strong>
-      </div>
-    </td>
-    <td>
-      <div style="background: linear-gradient(135deg, #68c7c0, #c8eae8); padding: 10px 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-        📧 <strong>15511288390</strong>
-      </div>
-    </td>
-    <td>
-      <div style="background: linear-gradient(135deg, #8acac5, #effefd); padding: 10px 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-        ✨ <strong>我是人，不是AI</strong>
-      </div>
-    </td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+### 🎯 个人简介
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓-人工智能在读-13c5b8?style=for-the-badge&logo=book&logoColor=white" alt="AI Student">
+  <img src="https://img.shields.io/badge/📚-高等数学|线性代数|机器学习-35c4b9?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Courses">
+  <br>
+  <img src="https://img.shields.io/badge/📧-15511288390-68c7c0?style=for-the-badge&logo=mail&logoColor=white" alt="Contact">
+  <img src="https://img.shields.io/badge/✨-我是人，不是AI-8acac5?style=for-the-badge&logo=heart&logoColor=white" alt="Human">
+</p>
 </div>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
