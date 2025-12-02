@@ -53,8 +53,6 @@
 
 </div>
 
-## 🏆 GitHub 奖杯
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CelesteCarbet&theme=onedark&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
 </div>
@@ -73,8 +71,6 @@
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
-## 🤝 联系我
 
 <div align="center">
 
