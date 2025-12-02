@@ -15,7 +15,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎+来到+我的+GitHub!;热爱+代码+与+创新;做成+这样+就行+了吧;探索+AI+的+无限+可能;一起+进步+吧!&center=true&size=25&color=58A6FF" />
 </div>
-### 🎯 个人简介
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓-人工智能在读-13c5b8?style=for-the-badge&logo=book&logoColor=white" alt="AI Student">
@@ -25,6 +24,7 @@
 </p>
 </div>
 
+<p align="center">
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
