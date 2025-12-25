@@ -1,6 +1,6 @@
 <!-- 动态波浪欢迎效果 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=主席部长同事你们好！！！&fontSize=40&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HELLO！！！&fontSize=40&fontAlignY=35" />
 </div>
 
 # 👋 HELLO！！！
@@ -13,7 +13,7 @@
 
 <!-- 动态打字效果 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎+来到+我的+GitHub!;热爱+代码+与+创新;做成+这样+就行+了吧;探索+AI+的+无限+可能;一起+进步+吧!&center=true&size=25&color=58A6FF" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎+来到+我的+GitHub!;热爱+代码+与+创新;探索+AI+的+无限+可能;一起+进步+吧!&center=true&size=25&color=58A6FF" />
 </div>
 
 <p align="center">
