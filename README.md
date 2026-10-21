@@ -39,14 +39,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CelesteCarbet&theme=onedark&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-
-<!-- 简化笑话 -->
-<img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%23ffffff&qColor=%2358a6ff&aColor=%23ff6b9d" alt="Jokes Card" />
-
 <!-- 名言卡片 -->
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
