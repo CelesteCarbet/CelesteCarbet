@@ -39,12 +39,6 @@
 </div>
 
 <div align="center">
-<!-- 名言卡片 -->
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-1377720996@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1377720996@qq.com)
 [![B站](https://img.shields.io/badge/B站-2091022725-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/2091022725)
